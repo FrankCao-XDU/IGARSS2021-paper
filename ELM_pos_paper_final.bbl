@@ -1,0 +1,61 @@
+\begin{thebibliography}{1}
+
+\bibitem{hou2019integrated}
+B.~Hou et~al.,
+\newblock ``Integrated design and accuracy analysis of star sensor and gyro on
+  the same benchmark for satellite attitude determination system,''
+\newblock {\em IEEECAA Journal of Automatica Sinica}, vol. 6, no. 4, pp.
+  1074--1080, 2019.
+
+\bibitem{hajiyev2015integration}
+C.~Hajiyev et~al.,
+\newblock ``Integration of algebraic method and ekf for attitude determination
+  of small information satellites,''
+\newblock in {\em 2015 7th International Conference on Recent Advances in Space
+  Technologies (RAST)}. IEEE, 2015, pp. 719--724.
+
+\bibitem{guo2017high}
+C.~Guo et~al.,
+\newblock ``High-precision attitude estimation method of star sensors and gyro
+  based on complementary filter and unscented kalman filter.,''
+\newblock {\em International Archives of the Photogrammetry, Remote Sensing \&
+  Spatial Information Sciences}, vol. 42, 2017.
+
+\bibitem{risfic2004beyond}
+B.~Risfic et~al.,
+\newblock ``Beyond the kalman filter-book review,''
+\newblock {\em IEEE Aerospace and Electronic Systems Magazine}, vol. 19, no. 7,
+  pp. 37--38, 2004.
+
+\bibitem{zhiru2013research}
+Z.~Fan et~al.,
+\newblock ``A research of gyrostar-sensor integrated attitude determination
+  based on particle filter,''
+\newblock in {\em 2013 Third International Conference on Instrumentation,
+  Measurement, Computer, Communication and Control}. IEEE, 2013, pp. 256--261.
+
+\bibitem{farhangian2020accuracy}
+F.~Farhangian et~al.,
+\newblock ``Accuracy improvement of attitude determination systems using
+  ekf-based error prediction filter and pi controller,''
+\newblock {\em Sensors}, vol. 20, no. 14, pp. 4055, 2020.
+
+\bibitem{nayak2016comparative}
+P.~Nayak et~al.,
+\newblock ``Comparative study of harmonics estimation in micro grid using
+  adaptive extended kalman filter,''
+\newblock in {\em 2016 International Conference on Electrical, Electronics, and
+  Optimization Techniques (ICEEOT)}. IEEE, 2016, pp. 434--438.
+
+\bibitem{sola2017quaternion}
+Joan Sola,
+\newblock ``Quaternion kinematics for the error-state kalman filter,''
+\newblock {\em arXiv preprint arXiv1711.02508}, 2017.
+
+\bibitem{huang2011extreme}
+G.B Huang et~al.,
+\newblock ``Extreme learning machines: a survey,''
+\newblock {\em International journal of machine learning and cybernetics}, vol.
+  2, no. 2, pp. 107--122, 2011.
+
+\end{thebibliography}
